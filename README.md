@@ -9,3 +9,9 @@
 [모의고사5] https://github.com/DevKDuck/Certification/issues/5
 
 [모의고사6] https://github.com/DevKDuck/Certification/issues/6
+
+[모의고사7] https://github.com/DevKDuck/Certification/issues/7
+
+[모의고사8] https://github.com/DevKDuck/Certification/issues/8
+
+[모의고사9] https://github.com/DevKDuck/Certification/issues/9
