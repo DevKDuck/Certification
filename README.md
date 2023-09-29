@@ -15,3 +15,7 @@
 [모의고사8] https://github.com/DevKDuck/Certification/issues/8
 
 [모의고사9] https://github.com/DevKDuck/Certification/issues/9
+
+[OSI7계층] https://github.com/DevKDuck/Certification/issues/10
+
+[정규화] https://github.com/DevKDuck/Certification/issues/11
